@@ -1,10 +1,10 @@
-[Meta]
+[meta]
 name = "Horn Chooser"
 author = "Greep"
 category = "Utilities"
+siteid = 175
 
 version = "1.0"
-siteid = 175
 
 [script]
 imports = [ "Icons.as" ]
